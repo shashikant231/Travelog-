@@ -1,0 +1,17 @@
+{% extends "blog/Base.html" %}
+
+{% block content %}
+    <!--here posts is key of dictionary context  -->
+   {% for post in posts %}
+   <article class="media content-section">
+    <div class="media-body">
+      <div class="article-metadata">
+        <a class="article-title" href="https://www.goodreads.com/book/show/52036.Siddhartha">{{ post.title }}</a>
+        <small class="article-author" href="https://www.nobelprize.org/prizes/literature/1946/hesse/biographical/">{{ post.author }}</small>
+      </div>
+      <h2><a class="article-content">{{ post.content }}</a></h2>
+      <p class="article-date">{{ post.publish_date }}</p>
+    </div>
+  </article>
+   {% endfor %}
+{% endblock %}   
