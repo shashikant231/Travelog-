@@ -32,6 +32,9 @@ python3 --version - Python 3.6.1 \
  python3 -m venv env1 \
  Now,activate your virtual environment\
  source env1/bin/activate
+ 
+## Install Django 
+   python -m pip install Django
 
 
  
