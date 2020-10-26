@@ -32,6 +32,10 @@ python3 --version - Python 3.6.1 \
  
 ### Install Django 
  python -m pip install Django
+ 
+ ### Installing django-crispy-forms :
+ pip install django-crispy-forms
+
 
 
  
