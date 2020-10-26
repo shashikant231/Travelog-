@@ -3,4 +3,4 @@
 
 
 Based on
-[Django][https://docs.djangoproject.com/en/3.1/]
+[Django](https://docs.djangoproject.com/en/3.1/)
