@@ -6,6 +6,7 @@ Based on
 [Django](https://docs.djangoproject.com/en/3.1/)
 
 ## Installation Guide
+
 Open terminal -[ctrl+alt+T]
 git clone https://github.com/shashikant231/Travelog-.git
 
