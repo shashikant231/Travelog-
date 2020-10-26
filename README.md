@@ -3,7 +3,7 @@
 
 
 Based on
-[Django](https://docs.djangoproject.com/en/3.1/)
+[Django Framework](https://docs.djangoproject.com/en/3.1/)
 
 ## Installation Guide
 
