@@ -19,7 +19,7 @@ Python 3.6.1
  If you don't have Python installed, or if you want a different version type\
  sudo apt install python3
  
- Install a code editor#
+ Install a code editor\
  [vs-code](https://code.visualstudio.com/) \
  There are a lot of different editors and it largely boils down to personal preference. 
 
