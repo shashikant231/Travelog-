@@ -27,5 +27,14 @@ Python 3.6.1
  Create a new directory -[mkdir Travelog-]\
  cd Travelog-
  
+ Install the python3-venv package that provides the venv module.\
+ sudo apt install python3-venv
+ create your new virtual environment:
+ python3 -m venv env1\
+ Now,activate your virtual environment\
+ source env1/bin/activate
+
+
+ 
 
 
