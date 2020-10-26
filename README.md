@@ -13,8 +13,7 @@ git clone https://github.com/shashikant231/Travelog-.git
 ## Install Python
 It is very likely that you already have Python installed. To check if you have it installed (and which version it is), open a terminal and type the following command:
 
-python3 --version\
-Python 3.6.1
+python3 --version - Python 3.6.1 \
 
  If you don't have Python installed, or if you want a different version type\
  sudo apt install python3
