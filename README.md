@@ -23,15 +23,12 @@ python3 --version - Python 3.6.1 \
  There are a lot of different editors and you can use based on yourpersonal preference. 
  
  ## Set up virtualenv
- Create a new directory -[mkdir Travelog-]\
- cd Travelog-
+ Create a new directory : mkdir Travelog\
+ change directory : cd Travelog
  
- Install the python3-venv package that provides the venv module\
- sudo apt install python3-venv \
- create your new virtual environment:
- python3 -m venv env1 \
- Now,activate your virtual environment\
- source env1/bin/activate
+ Install the python3-venv package that provides the venv module : sudo apt install python3-venv \
+ create your new virtual environment: python3 -m venv env1 \
+ Now,activate your virtual environment: source env1/bin/activate
  
 ## Install Django 
    python -m pip install Django
