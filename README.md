@@ -35,6 +35,16 @@ python3 --version - Python 3.6.1 \
  
  ### Installing django-crispy-forms :
  pip install django-crispy-forms
+ 
+ ### Install pillow:
+ python -m pip install pillow
+ 
+ ### prepare for migrations and then migrate
+ python manage.py makemigrations
+ python manage.py migrate
+ 
+ 
+ 
 
 
 
