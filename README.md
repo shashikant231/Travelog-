@@ -31,7 +31,7 @@ python3 --version - Python 3.6.1 \
  Now,activate your virtual environment: source env1/bin/activate
  
 ### Install Django 
- python -m pip install Django
+ python -m pip install django
  
  ### Installing django-crispy-forms :
  pip install django-crispy-forms
