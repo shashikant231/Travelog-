@@ -40,7 +40,7 @@ python3 --version - Python 3.6.1 \
  python -m pip install pillow
  
  ### prepare for migrations and then migrate
- python manage.py makemigrations
+ python manage.py makemigrations \
  python manage.py migrate
  
  
